@@ -1,0 +1,51 @@
+[
+    {
+        "fname": "sabri",
+        "lname": "almasri",
+        "age": "20",
+        "city": "aleppo",
+        "id": "1"
+    },
+    {
+        "fname": "mohamad",
+        "lname": "ahmed",
+        "age": "21",
+        "city": "cairo",
+        "id": "2"
+    },
+    {
+        "fname": "ahmed",
+        "lname": "ramez",
+        "age": "22",
+        "city": "alex",
+        "id": "3"
+    },
+    {
+        "fname": "fatime",
+        "lname": "alahmed",
+        "age": "23",
+        "city": "cairo",
+        "id": "4"
+    },
+    {
+        "fname": "islam",
+        "lname": "mohamad",
+        "age": "25",
+        "city": "mansoura",
+        "id": "5"
+    },
+    {
+        "fname": "mohamad",
+        "lname": "hamid",
+        "age": "21",
+        "city": "alex",
+        "id": "6"
+    },
+    {
+        "fname": "ali",
+        "lname": "hamid",
+        "age": "21",
+        "city": "aleppo",
+        "id": "7"
+    }
+]
